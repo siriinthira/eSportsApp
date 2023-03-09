@@ -60,7 +60,7 @@ class _GamersState extends State<Gamers> {
             onChanged: (value) {
               setState(() {
                 itemListOnSearch = gamersData
-                    .where((element) => element.name
+                    .where((element) => element.game
                         .toLowerCase()
                         .contains(value.toLowerCase()))
                     .toList();
