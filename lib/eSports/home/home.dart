@@ -225,8 +225,10 @@ class _HomeScreenState extends State<HomeScreen> {
                     //
                     InkWell(
                       onTap: () {
-                        Navigator.push(context,
-                            MaterialPageRoute(builder: (context) => NewBlog()));
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => BlogPostWidget()));
                       },
                       child: Container(
                         decoration: BoxDecoration(
