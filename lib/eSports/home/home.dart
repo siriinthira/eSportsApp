@@ -1,3 +1,4 @@
+import 'package:app/eSports/newblog/views/new_community.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:app/eSports/profile/views/profile.dart';
@@ -7,7 +8,7 @@ import 'package:app/flutter_firebase_test1/data.dart';
 import 'package:app/eSports/authentication/views/LoginPage.dart';
 import 'package:app/eSports/authentication/views/Register.dart';
 import 'package:app/eSports/blogchat/views/blogchat.dart';
-import 'package:app/eSports/newblog/views/newblog.dart';
+import 'package:app/eSports/newblog/views/newblog_post.dart';
 import 'package:app/eSports/reccomend/views/reccomend.dart';
 import 'package:app/eSports/news/views/news.dart';
 import 'package:app/eSports/gamer/gamers.dart';
@@ -230,7 +231,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => BlogPostWidget()));
+                                builder: (context) =>
+                                    NewChatGroup(title: 'title')));
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -245,7 +247,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               color: Colors.purple,
                             ),
                             Text(
-                              "New Blog",
+                              "New Chat Group",
                               style: TextStyle(
                                   color: Colors.grey.shade700,
                                   fontSize: 18,
@@ -258,10 +260,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
                     InkWell(
                       onTap: () {
-                        Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                                builder: (context) => BlogChat()));
+                        Navigator.push(context,
+                            MaterialPageRoute(builder: (context) => ChatApp()));
                       },
                       child: Container(
                         decoration: BoxDecoration(

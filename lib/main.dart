@@ -2,10 +2,11 @@ import 'package:app/eSports/profile/views/profile.dart';
 import 'package:app/eSports/profile/views/styles.dart';
 import 'package:flutter/material.dart';
 import 'cartoon/show_cartoon_list.dart';
-import 'finance/chatgpt.dart';
+
+import 'eSports/newblog/views/new_community.dart';
 import 'flutter_firebase_test1/data.dart';
 import 'eSports/blogchat/views/blogchat.dart';
-import 'eSports/newblog/views/newblog.dart';
+import 'eSports/newblog/views/newblog_post.dart';
 import 'eSports/gamer/gamers.dart';
 import 'eSports/news/views/news.dart';
 import 'eSports/reccomend/views/reccomend.dart';
@@ -34,8 +35,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      //home: DataHome(), //flutter_firebase_test1
 
+      //home: DataHome(), //flutter_firebase_test1
       // home: const ShowCartoonList(),
     );
   }
