@@ -2,6 +2,7 @@ import 'package:app/eSports/profile/views/profile.dart';
 import 'package:app/eSports/profile/views/styles.dart';
 import 'package:flutter/material.dart';
 import 'cartoon/show_cartoon_list.dart';
+import 'finance/chatgpt.dart';
 import 'flutter_firebase_test1/data.dart';
 import 'eSports/blogchat/views/blogchat.dart';
 import 'eSports/newblog/views/newblog.dart';

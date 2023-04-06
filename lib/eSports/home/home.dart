@@ -16,6 +16,8 @@ import 'package:app/eSports/sponsor/sponsors.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:get/get.dart';
 
+import '../news/views/esports_news.dart';
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -321,7 +323,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => NewsUpdate()));
+                                builder: (context) => NewsScreen()));
                       },
                       child: Container(
                         decoration: BoxDecoration(

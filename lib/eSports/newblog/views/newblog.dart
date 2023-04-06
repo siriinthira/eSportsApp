@@ -4,6 +4,7 @@ import 'package:app/eSports/newblog/models/blog_post_model.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
 import 'dart:async';
+import 'package:firebase_database/firebase_database.dart';
 
 class BlogPostWidget extends StatefulWidget {
   const BlogPostWidget({super.key});
@@ -141,6 +142,23 @@ class _BlogPostWidgetState extends State<BlogPostWidget> {
     });
   }
 
+//connects to firebase
+
+  // FirebaseService firebaseService = FirebaseService();
+
+  // void addBlogPost(String title, String content, String imageUrl) async {
+  //   await firebaseService.addBlogPost(title, content, imageUrl);
+  // }
+
+  // void updateBlogPost(
+  //     String postId, String title, String content, String imageUrl) async {
+  //   await firebaseService.updateBlogPost(postId, title, content, imageUrl);
+  // }
+
+  // void deleteBlogPost(String postId) async {
+  //   await firebaseService.deleteBlogPost(postId);
+  // }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -186,49 +204,37 @@ class _BlogPostWidgetState extends State<BlogPostWidget> {
         child: Icon(Icons.add),
       ),
     );
+  }
+}
 
-    // return Scaffold(
-    //   appBar: AppBar(
-    //     title: Text("Blog Posts"),
-    //   ),
-    //   body: ListView.builder(
-    //     itemCount: blogPosts.length,
-    //     itemBuilder: (BuildContext context, int index) {
-    //       return Card(
-    //         child: Column(
-    //           children: <Widget>[
-    //             ListTile(
-    //               leading: blogPosts[index].image,
-    //               title: Text(blogPosts[index].title),
-    //               subtitle: Text(blogPosts[index].content),
-    //             ),
-    //             ButtonBar(
-    //               children: <Widget>[
-    //                 TextButton(
-    //                   child: const Text('EDIT'),
-    //                   onPressed: () {
-    //                     _editBlogPost(context, index);
-    //                   },
-    //                 ),
-    //                 TextButton(
-    //                   child: const Text('DELETE'),
-    //                   onPressed: () {
-    //                     _deleteBlogPost(context, index);
-    //                   },
-    //                 ),
-    //               ],
-    //             ),
-    //             TextButton(
-    //               child: const Text('ADD'),
-    //               onPressed: () {
-    //                 _addBlogPost(context, index);
-    //               },
-    //             ),
-    //           ],
-    //         ),
-    //       );
-    //     }, // <-- Closing parentheses for itemBuilder
-    //   ),
-    // );
+class FirebaseService {
+  final databaseRef = FirebaseDatabase.instance.reference();
+
+  // Add new blog post
+  Future<void> addBlogPost(
+      String title, String content, String imageUrl) async {
+    final newPostRef = databaseRef.child('esports/blog_posts').push();
+    await newPostRef.set({
+      'title': title,
+      'content': content,
+      'image': imageUrl,
+    });
+  }
+
+  // Update existing blog post
+  Future<void> updateBlogPost(
+      String postId, String title, String content, String imageUrl) async {
+    final postRef = databaseRef.child('esports/blog_posts/$postId');
+    await postRef.update({
+      'title': title,
+      'content': content,
+      'image': imageUrl,
+    });
+  }
+
+  // Delete a blog post
+  Future<void> deleteBlogPost(String postId) async {
+    final postRef = databaseRef.child('esports/blog_posts/$postId');
+    await postRef.remove();
   }
 }

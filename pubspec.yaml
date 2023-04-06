@@ -48,6 +48,12 @@ dev_dependencies:
   flutter_svg: ^2.0.2
   flutter_gif: ^0.0.4
   image_picker: ^0.8.7+1
+  firebase_database: ^10.1.0
+  dialogflow_flutter: ^1.0.0
+  bubble: ^1.2.1
+  googleapis: ^10.1.0
+  googleapis_auth: ^1.4.0
+  http: ^0.13.3
   #get, firebase storage - firebase_storage_service.dart
   #cloud firestore and form_field_validator - display.dart, formscreen.dart, student.dart, data.dart
   # The "flutter_lints" package below contains a set of recommended lints to
