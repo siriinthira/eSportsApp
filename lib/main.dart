@@ -3,7 +3,8 @@ import 'package:app/eSports/profile/views/styles.dart';
 import 'package:flutter/material.dart';
 import 'cartoon/show_cartoon_list.dart';
 
-import 'eSports/newblog/views/new_community.dart';
+import 'eSports/newblog/views/newblog.dart';
+import 'eSports/reccomend/views/GamesRec.dart';
 import 'flutter_firebase_test1/data.dart';
 import 'eSports/blogchat/views/blogchat.dart';
 import 'eSports/newblog/views/newblog_post.dart';
@@ -35,6 +36,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      // home: GamesRec(),
 
       //home: DataHome(), //flutter_firebase_test1
       // home: const ShowCartoonList(),
@@ -91,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage("images/visitjp.gif"),
+            image: AssetImage("images/bluecity.gif"),
             fit: BoxFit.cover,
           ),
         ),

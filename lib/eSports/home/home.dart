@@ -1,6 +1,5 @@
-import 'package:app/eSports/newblog/views/new_community.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
+import 'package:app/eSports/newblog/views/newblog.dart';
+
 import 'package:app/eSports/profile/views/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:app/cartoon/show_cartoon_list.dart';
@@ -18,6 +17,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:get/get.dart';
 
 import '../news/views/esports_news.dart';
+import '../reccomend/views/GamesRec.dart';
+
+import 'package:firebase_auth/firebase_auth.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -27,6 +29,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  final auth = FirebaseAuth.instance;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -59,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             height: 10.0,
                           ),
                           Text(
-                            'Shadow Sorcerer',
+                            auth.currentUser!.email!,
                             style:
                                 Theme.of(context).textTheme.subtitle1!.copyWith(
                                       fontWeight: FontWeight.w500,
@@ -292,7 +295,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => Reccomend()));
+                                builder: (context) => GamesRec()));
                       },
                       child: Container(
                         decoration: BoxDecoration(
