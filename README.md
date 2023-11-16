@@ -4,7 +4,7 @@ Esports is currently an industry with high-demand interest. In addition, Thailan
 
 ## Analysis & Design
 
-![alt text](https://lucid.app/lucidchart/cf94e3c3-a260-4ef1-ae6a-8251e7481cd4/edit?viewport_loc=-270%2C223%2C2847%2C1595%2CHWEp-vi-RSFO&invitationId=inv_2fb04978-0517-408d-a25b-79815460a6f0)
+(https://lucid.app/lucidchart/cf94e3c3-a260-4ef1-ae6a-8251e7481cd4/edit?viewport_loc=-270%2C223%2C2847%2C1595%2CHWEp-vi-RSFO&invitationId=inv_2fb04978-0517-408d-a25b-79815460a6f0)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
