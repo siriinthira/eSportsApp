@@ -38,7 +38,6 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 
 ---------------------------------------------------------------------------
-## Analysis & Design
 
 # Database Design (ERD) 
 <p>
