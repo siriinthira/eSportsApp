@@ -28,15 +28,6 @@ wireframe, mockup, prototype (re-do), user flow diagram
   <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
 </p>
 
-# User Testing
-
-# User Journey & Pain Points
-
-# User Feedback
-
-# Design Improvement
-
-
 ---------------------------------------------------------------------------
 
 # Database Design (ERD) 
