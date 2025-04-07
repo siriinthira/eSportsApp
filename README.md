@@ -143,10 +143,10 @@ Alex joining a tournament:
 8. Participate in Tournament: On event day, Alex plays the tournament.
 
 # Wireframe V.2
-** Wireframe and User flow**
+**Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
 
-Home Screen:
+**Home Screen:**
 
 Search bar at the top.
 
@@ -154,25 +154,25 @@ Quick access to “Live Streams,” “Tournaments,” and “News.”
 
 News feed for e-sports updates.
 
-Tournaments Screen:
+**Tournaments Screen:**
 
 Filters for game, region, and skill level.
 
 List of upcoming tournaments with quick access to event details.
 
-Event Detail Screen:
+**Event Detail Screen:**
 
 Tournament description, prize details, registration button.
 
 Live leaderboard and match schedule.
 
-Profile Screen:
+**Profile Screen:**
 
 User stats (e.g., tournament participation, rankings).
 
 Option to edit personal information, notifications, and preferences.
 
-User Flow Ideas:
+**User Flow Ideas:**
 
 Flow for Registering for a Tournament: Home → Tournaments → Filter → Select Event → Register → Confirmation.
 
