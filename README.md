@@ -54,10 +54,6 @@ Live Streaming Integration: Allow users to watch live tournaments and games.
 
 Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
 
-# Wireframe V.1
-
-# Mockup V.1
-
 # Prototype V.1
 wireframe, mockup, prototype (re-do), user flow diagram
   <p>
