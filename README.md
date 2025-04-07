@@ -126,21 +126,21 @@ As an e-sports enthusiast, I want to receive real-time updates on tournaments I 
 
 Alex joining a tournament:
 
-Open App: Alex launches the app.
+1. Open App: Alex launches the app.
 
-Sign in/Sign up: Alex logs in or creates an account.
+2. Sign in/Sign up: Alex logs in or creates an account.
 
-Explore Tournaments: He browses the "Tournaments" section.
+3. Explore Tournaments: He browses the "Tournaments" section.
 
-Filter Events: He filters tournaments by game, region, and skill level.
+4. Filter Events: He filters tournaments by game, region, and skill level.
 
-Select Event: Alex clicks on a tournament to view details.
+5. Select Event: Alex clicks on a tournament to view details.
 
-Register: He fills out registration details and submits.
+6. Register: He fills out registration details and submits.
 
-Set Notifications: Alex sets up reminders and notifications for the event.
+7. Set Notifications: Alex sets up reminders and notifications for the event.
 
-Participate in Tournament: On event day, Alex plays the tournament.
+8. Participate in Tournament: On event day, Alex plays the tournament.
 
 # Wireframe V.2
 ** Wireframe and User flow**
