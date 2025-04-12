@@ -71,9 +71,10 @@ Watch short ads for bonuses or rewards.
 # UX UI Design
 
 # Empathize 
-Empathy is the first and most crucial step in the UX/UI design process. It's about understanding the users’ needs, pain points, and behaviors. This phase involves:
 
-Conducting User Research: Engage with e-sports players, enthusiasts, and tournament organizers. Use surveys, interviews, and focus groups to gather insights on what features are most important to them (e.g., easy tournament registration, live score tracking, news feeds, etc.).
+Conducting User Research: 
+Engage with e-sports players, enthusiasts, and tournament organizers. 
+Use surveys, interviews, and focus groups to gather insights on what features are most important to them (e.g., tournament registration guide, pro games statistics and ranking, pro player tactics, news feeds, etc.).
 
 Competitive Analysis: Study other popular e-sports community apps to understand their strengths and weaknesses. This can help identify gaps in the market and ensure that your app stands out with unique features.
 
