@@ -55,64 +55,6 @@ Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and 
 
 ---------------------------------------------------------------------------
 
-# Prototype V.1
-wireframe, mockup, prototype (re-do), user flow diagram
-  <p>
-  <img src = "https://github.com/user-attachments/assets/a7ef3dd4-4cce-4fa8-8b02-c81609a90864"/>
-</p>
-<p>
-  <img src = "https://github.com/user-attachments/assets/884d150d-4e06-46bb-ab77-c1399878e9cc"/>
-</p>
-<p>
-  <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
-</p>
----------------------------------------------------------------------------
-
-
-# Wireframe V.2
-
-**Wireframe and User flow**
-Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
-
-**Home Screen:**
-
-Search bar at the top.
-
-Quick access to “Live Streams,” “Tournaments,” and “News.”
-
-News feed for e-sports updates.
-
-**Tournaments Screen:**
-
-Filters for game, region, and skill level.
-
-List of upcoming tournaments with quick access to event details.
-
-**Event Detail Screen:**
-
-Tournament description, prize details, registration button.
-
-Live leaderboard and match schedule.
-
-**Profile Screen:**
-
-User stats (e.g., tournament participation, rankings).
-
-Option to edit personal information, notifications, and preferences.
-
-**User Flow Ideas:**
-
-Flow for Registering for a Tournament: Home → Tournaments → Filter → Select Event → Register → Confirmation.
-
-Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Watch → Interact with Community.
-
-# Mockup V.2
-
-# Prototype V.2
-
-
-
----------------------------------------------------------------------------
 # User Persona
 
 **Persona 1: Alex - Competitive Player**
@@ -170,6 +112,20 @@ As an e-sports enthusiast, I want to receive real-time updates on tournaments I 
 
 ---------------------------------------------------------------------------
 
+# Prototype V.1
+wireframe, mockup, prototype (re-do), user flow diagram
+  <p>
+  <img src = "https://github.com/user-attachments/assets/a7ef3dd4-4cce-4fa8-8b02-c81609a90864"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/884d150d-4e06-46bb-ab77-c1399878e9cc"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
+</p>
+---------------------------------------------------------------------------
+
+
 # User Journey
 
 Alex joining a tournament:
@@ -194,7 +150,53 @@ Alex joining a tournament:
 
 # User Testing, Feedback & Interview
 
+
 ---------------------------------------------------------------------------
+
+
+# Wireframe V.2
+
+**Wireframe and User flow**
+Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
+
+**Home Screen:**
+
+Search bar at the top.
+
+Quick access to “Live Streams,” “Tournaments,” and “News.”
+
+News feed for e-sports updates.
+
+**Tournaments Screen:**
+
+Filters for game, region, and skill level.
+
+List of upcoming tournaments with quick access to event details.
+
+**Event Detail Screen:**
+
+Tournament description, prize details, registration button.
+
+Live leaderboard and match schedule.
+
+**Profile Screen:**
+
+User stats (e.g., tournament participation, rankings).
+
+Option to edit personal information, notifications, and preferences.
+
+**User Flow Ideas:**
+
+Flow for Registering for a Tournament: Home → Tournaments → Filter → Select Event → Register → Confirmation.
+
+Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Watch → Interact with Community.
+
+# Mockup V.2
+
+# Prototype V.2
+
+---------------------------------------------------------------------------
+
 
 # Database Design (ERD) 
 <p>
