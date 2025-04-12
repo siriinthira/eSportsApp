@@ -5,7 +5,6 @@ Esports is currently an industry with high-demand interest. In addition, Thailan
 ---------------------------------------------------------------------------
 # UX UI Design
 
-
 # Empathize 
 Empathy is the first and most crucial step in the UX/UI design process. It's about understanding the users’ needs, pain points, and behaviors. This phase involves:
 
@@ -54,6 +53,8 @@ Live Streaming Integration: Allow users to watch live tournaments and games.
 
 Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
 
+---------------------------------------------------------------------------
+
 # Prototype V.1
 wireframe, mockup, prototype (re-do), user flow diagram
   <p>
@@ -65,82 +66,11 @@ wireframe, mockup, prototype (re-do), user flow diagram
 <p>
   <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
 </p>
+---------------------------------------------------------------------------
 
-# User Persona
-
-**Persona 1: Alex - Competitive Player**
-
-Age: 21
-
-Occupation: Student
-
-Goals: Win tournaments, improve gameplay, stay updated on esports news.
-
-Frustrations: Hard to find tournaments in his area, gets overwhelmed with too much information on platforms.
-
-Behaviors: Frequently plays mobile and PC games, follows professional players on social media, and looks for tournaments that match his skill level.
-
-**Persona 2: Sophia - E-Sports Enthusiast**
-
-Age: 28
-
-Occupation: Marketing Specialist
-
-Goals: Stay updated on news, follow favorite teams, watch live streams.
-
-Frustrations: Can't find a community for discussing strategies or news in one place.
-
-Behaviors: Watches tournaments live on streaming platforms, follows e-sports blogs and influencers.
-
-# User Scenario
-A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
-
-Scenario 1: Alex wants to join a tournament.
-
-Alex opens the app, logs in, and navigates to the "Tournaments" section.
-
-He filters tournaments based on his favorite game and skill level.
-
-He selects a tournament and registers by filling in his team information.
-
-After registration, he sets up alerts for updates about the tournament.
-
-Scenario 2: Sophia wants to watch a live stream.
-
-Sophia opens the app, navigates to the "Live Streams" section.
-
-She selects her favorite team’s match and watches it in real-time.
-
-During the match, she interacts with the community through a live chat.
-
-# User Story
-As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
-
-As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
-
-# User Journey
-
-Alex joining a tournament:
-
-1. Open App: Alex launches the app.
-
-2. Sign in/Sign up: Alex logs in or creates an account.
-
-3. Explore Tournaments: He browses the "Tournaments" section.
-
-4. Filter Events: He filters tournaments by game, region, and skill level.
-
-5. Select Event: Alex clicks on a tournament to view details.
-
-6. Register: He fills out registration details and submits.
-
-7. Set Notifications: Alex sets up reminders and notifications for the event.
-
-8. Participate in Tournament: On event day, Alex plays the tournament.
-
-# Pain Points
 
 # Wireframe V.2
+
 **Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
 
@@ -183,11 +113,95 @@ Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Wat
 
 
 ---------------------------------------------------------------------------
+# User Persona
+
+**Persona 1: Alex - Competitive Player**
+
+Age: 21
+
+Occupation: Student
+
+Goals: Win tournaments, improve gameplay, stay updated on esports news.
+
+Frustrations: Hard to find tournaments in his area, gets overwhelmed with too much information on platforms.
+
+Behaviors: Frequently plays mobile and PC games, follows professional players on social media, and looks for tournaments that match his skill level.
+
+**Persona 2: Sophia - E-Sports Enthusiast**
+
+Age: 28
+
+Occupation: Marketing Specialist
+
+Goals: Stay updated on news, follow favorite teams, watch live streams.
+
+Frustrations: Can't find a community for discussing strategies or news in one place.
+
+Behaviors: Watches tournaments live on streaming platforms, follows e-sports blogs and influencers.
+
+---------------------------------------------------------------------------
+
+# User Scenario
+A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
+
+Scenario 1: Alex wants to join a tournament.
+
+Alex opens the app, logs in, and navigates to the "Tournaments" section.
+
+He filters tournaments based on his favorite game and skill level.
+
+He selects a tournament and registers by filling in his team information.
+
+After registration, he sets up alerts for updates about the tournament.
+
+Scenario 2: Sophia wants to watch a live stream.
+
+Sophia opens the app, navigates to the "Live Streams" section.
+
+She selects her favorite team’s match and watches it in real-time.
+
+During the match, she interacts with the community through a live chat.
+
+---------------------------------------------------------------------------
+
+# User Story
+As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
+As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
+
+---------------------------------------------------------------------------
+
+# User Journey
+
+Alex joining a tournament:
+
+1. Open App: Alex launches the app.
+
+2. Sign in/Sign up: Alex logs in or creates an account.
+
+3. Explore Tournaments: He browses the "Tournaments" section.
+
+4. Filter Events: He filters tournaments by game, region, and skill level.
+
+5. Select Event: Alex clicks on a tournament to view details.
+
+6. Register: He fills out registration details and submits.
+
+7. Set Notifications: Alex sets up reminders and notifications for the event.
+
+8. Participate in Tournament: On event day, Alex plays the tournament.
+
+# Pain Points
+
+# User Testing, Feedback & Interview
+
+---------------------------------------------------------------------------
 
 # Database Design (ERD) 
 <p>
   <img src = "https://github.com/user-attachments/assets/8df2f90e-a799-478e-a526-4b2e223d7c96"/>
 </p>
+
+---------------------------------------------------------------------------
 
 # Use Case Diagram
 <p>
