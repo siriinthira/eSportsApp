@@ -82,7 +82,7 @@ Sponsors: who seeks pro players for collaboration or adversitement.
 
 Gamers: who seeks community and wants to invite others to play games to up level, skills, experience and share techniques or exchange items.
 
-**Key insights from user research**
+**Key insights from user research:**
 
 **Pro Players:**
 
