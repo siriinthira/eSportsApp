@@ -5,17 +5,17 @@ Esports is currently an industry with high-demand interest. In addition, Thailan
 
 # 🕹️ How the e-Sports App Works – Quick Overview
 
-1. Sign In / Register
+**1. Sign In / Register**
    
 🔐 New Users: Sign up using email or social login.
 
 🔄 Returning Users: Sign in to access full features.
 
-2. Home Page Navigation
+**2. Home Page Navigation**
    
 After login, land on the Home Page with the main menu and access to all features.
 
-4. Profile Management
+**3. Profile Management**
    
 🧾 Upload/Edit Profile Info
 
@@ -23,7 +23,7 @@ Add profile photo, gamer tag, bio, game preferences, and social links.
 
 Keep it updated anytime from the profile page.
 
-5. Settings Menu
+**4. Settings Menu**
    
 ⚙️ Tap Settings to access:
 
@@ -33,7 +33,7 @@ Keep it updated anytime from the profile page.
 
 🚪 Sign Out: Safely log out of your account.
 
-6. Main Menu Features
+**5. Main Menu Features**
    
 📰 News (eSports Games & Events)
 Latest tournament schedules, results, and esports headlines.
@@ -57,7 +57,7 @@ Write blog-style posts, share opinions, and interact with others.
 👥 Create New Chat Group
 Start or join chat groups based on games, events, or strategies.
 
-7. Ad Interaction
+**6. Ad Interaction**
    
 📺 View Ads on App
 
