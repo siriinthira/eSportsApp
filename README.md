@@ -3,44 +3,69 @@
 Esports is currently an industry with high-demand interest. In addition, Thailand is ranked number one in the ASEAN association, with the highest number of e-sports players earning more than 736,352,045.70 baht. There are at least 197 million people in the esports industry around the world. Therefore, making applications that help promote competition or create a community that meets the needs of consumers to achieve the set objectives by using interesting processes yet simple, convenient to use, and safe. This app is a community for people in the e-sport industry by exploring and collecting behaviors to be analyzed and designed to create. Applications according to the interests of the e-sport community. In this research, Flutter, a Cross - Platform Framework used in Native Mobile Application development, is a tool to design UX/UI customizations to aid mobile application development to meet users' requirements. The design proposes the application to help develop communities and e-sport tournaments that help to reach the community easier and follow news on time.
 
 
-# How It Works:
+# 🕹️ How the e-Sports App Works – Quick Overview
 
-# 1. Sign In / Register
-New Users: Create an account with email or social login.
+1. Sign In / Register
+   
+🔐 New Users: Sign up using email or social login.
 
-Existing Users: Sign in to access the app.
+🔄 Returning Users: Sign in to access full features.
 
-2. Navigate to Home Page
-After login, land on the Home Page where main features are listed in menu format.
+2. Home Page Navigation
+   
+After login, land on the Home Page with the main menu and access to all features.
 
-3. Menu Options (with Short Explanations)
+4. Profile Management
+   
+🧾 Upload/Edit Profile Info
+
+Add profile photo, gamer tag, bio, game preferences, and social links.
+
+Keep it updated anytime from the profile page.
+
+5. Settings Menu
+   
+⚙️ Tap Settings to access:
+
+🌐 Change Language: Switch app language to your preference.
+
+🎨 Change Theme Color: Customize the app’s look with light, dark, or custom color themes.
+
+🚪 Sign Out: Safely log out of your account.
+
+6. Main Menu Features
+   
 📰 News (eSports Games & Events)
-Get latest updates, articles, and announcements about esports tournaments and news.
+Latest tournament schedules, results, and esports headlines.
 
 🎮 Games Category & Info
-Browse esports games by genre (FPS, MOBA, etc.).
+Browse game genres (MOBA, FPS, etc.)
 
-View game details, gameplay style, platforms, and top teams.
+View descriptions, team rankings, and available platforms.
 
 🤝 Sponsor Contact
-Connect with brands or companies sponsoring esports events or players.
+Discover potential sponsors or brand partners.
 
-Possibly includes inquiry forms or contact details.
+Submit inquiries or view sponsor info.
 
 🧑‍💼 Pro Player Contact
-View or contact professional esports players.
-
-Might include bios, game specialties, and social links.
+See top player profiles with game stats and social/contact options.
 
 💬 (My) Blog Chat
-Share your thoughts, match reviews, or esports opinions.
-
-Interact through comments or likes on blogs.
+Write blog-style posts, share opinions, and interact with others.
 
 👥 Create New Chat Group
-Start a new group chat with friends or fans.
+Start or join chat groups based on games, events, or strategies.
 
-Choose topics like game strategy, tournaments, or team discussions.
+7. Ad Interaction
+   
+📺 View Ads on App
+
+Watch short ads for bonuses or rewards.
+
+⏭️ Skip Ads after a few seconds if you’re not interested.
+
+
 
 ---------------------------------------------------------------------------
 # UX UI Design
