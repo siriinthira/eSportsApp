@@ -2,6 +2,46 @@
 
 Esports is currently an industry with high-demand interest. In addition, Thailand is ranked number one in the ASEAN association, with the highest number of e-sports players earning more than 736,352,045.70 baht. There are at least 197 million people in the esports industry around the world. Therefore, making applications that help promote competition or create a community that meets the needs of consumers to achieve the set objectives by using interesting processes yet simple, convenient to use, and safe. This app is a community for people in the e-sport industry by exploring and collecting behaviors to be analyzed and designed to create. Applications according to the interests of the e-sport community. In this research, Flutter, a Cross - Platform Framework used in Native Mobile Application development, is a tool to design UX/UI customizations to aid mobile application development to meet users' requirements. The design proposes the application to help develop communities and e-sport tournaments that help to reach the community easier and follow news on time.
 
+
+# How It Works:
+
+# 1. Sign In / Register
+New Users: Create an account with email or social login.
+
+Existing Users: Sign in to access the app.
+
+2. Navigate to Home Page
+After login, land on the Home Page where main features are listed in menu format.
+
+3. Menu Options (with Short Explanations)
+📰 News (eSports Games & Events)
+Get latest updates, articles, and announcements about esports tournaments and news.
+
+🎮 Games Category & Info
+Browse esports games by genre (FPS, MOBA, etc.).
+
+View game details, gameplay style, platforms, and top teams.
+
+🤝 Sponsor Contact
+Connect with brands or companies sponsoring esports events or players.
+
+Possibly includes inquiry forms or contact details.
+
+🧑‍💼 Pro Player Contact
+View or contact professional esports players.
+
+Might include bios, game specialties, and social links.
+
+💬 (My) Blog Chat
+Share your thoughts, match reviews, or esports opinions.
+
+Interact through comments or likes on blogs.
+
+👥 Create New Chat Group
+Start a new group chat with friends or fans.
+
+Choose topics like game strategy, tournaments, or team discussions.
+
 ---------------------------------------------------------------------------
 # UX UI Design
 
