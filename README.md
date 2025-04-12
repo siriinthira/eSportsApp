@@ -74,14 +74,40 @@ Watch short ads for bonuses or rewards.
 
 Empathy is the first and most crucial step in the UX/UI design process. It's about understanding the users’ needs, pain points, and behaviors. 
 
-This phase involves:
+**Target Users:**
+Pro Players: who seeks sponsorship for tournaments and wants to market themselves or seeks teammates for upcoming events
+Sponsors: who seeks pro players for collaboration or adversitement
+Gamers: who seeks community and wants to invite others to play games to up level, skills, experience and share techniques or exchange items
 
-Conducting User Research: Engage with e-sports players, enthusiasts, and tournament organizers. 
-Use surveys, interviews, and focus groups to gather insights on what features are most important to them (e.g., tournament registration guide, pro games statistics and ranking, pro player tactics, news feeds, etc.).
+**Key insights from user research**
 
-Competitive Analysis: Study other popular e-sports community apps to understand their strengths and weaknesses. This can help identify gaps in the market and ensure that your app stands out with unique features.
+**Pro Players:**
 
-Community Engagement: Observe online forums, social media groups, and e-sports-related platforms to better understand user interactions, behaviors, and needs.
+Sponsorship and Exposure Needs: Pro players are highly motivated by opportunities to gain sponsorships and collaborations. They look for an easy-to-navigate platform to showcase their skills, achievements, and highlight their brand to potential sponsors.
+
+Networking and Team Formation: Many pro players are actively seeking new teammates or squads for upcoming events. They need a platform that allows them to easily connect with other skilled players to form teams quickly.
+
+Competitive Edge: Pro players value insights into their competitors, and tools to track performance and development. Features such as real-time analytics, competition stats, or personalized training schedules are highly desirable.
+
+Brand Collaboration and Monetization: Pro players often look for opportunities to monetize their content, either through sponsorships, fan interactions, or streaming. The app should allow them to share branded content easily and foster direct engagement with potential sponsors.
+
+**Sponsors:**
+
+Targeted Player Search: Sponsors are focused on finding pro players whose brand aligns with their products or services. A robust search feature that allows them to filter players by game genre, skill level, location, or social media influence can be key.
+
+Player Analytics and Insights: Sponsors want access to performance data, fan engagement, and player metrics to ensure a successful partnership. They are likely to prefer features that provide comprehensive player profiles with clear stats on engagement, views, and skill rankings.
+
+Customizable Campaigns: Sponsors are looking for tailored advertising solutions, such as in-game integrations, branded events, or social media collaborations. The app should allow them to create and manage campaigns that seamlessly blend with the players' content.
+
+**Gamers (Community and Casual Players):**
+
+Social Interaction and Community Building: Casual gamers are looking for a community where they can meet new players, share tips, discuss strategies, and level up their skills together. Gamers appreciate apps that provide dedicated spaces for discussions, group chats, and community events.
+
+Learning and Skill Development: Gamers value educational content, including guides, tutorials, and practice modes. They are highly interested in exchanging techniques, discussing strategies, and improving their gameplay. The app should offer a robust system for sharing knowledge, tips, and strategies between users.
+
+Matchmaking and Collaboration: Gamers are keen on finding like-minded individuals to play games with, whether for competitive or casual gaming sessions. Matchmaking systems, along with a ranking system that fosters healthy competition, can enhance the user experience.
+
+Item Trading and Exchange: Many casual gamers are interested in trading or exchanging in-game items, skins, or other collectibles. The app should include a secure, easy-to-use item exchange platform that facilitates these transactions and ensures user safety.
 
 # Define
 Once you've gathered insights, it’s time to define the problem you want to solve and the goals of the app. This step includes:
