@@ -75,9 +75,12 @@ Watch short ads for bonuses or rewards.
 Empathy is the first and most crucial step in the UX/UI design process. It's about understanding the users’ needs, pain points, and behaviors. 
 
 **Target Users:**
-Pro Players: who seeks sponsorship for tournaments and wants to market themselves or seeks teammates for upcoming events
-Sponsors: who seeks pro players for collaboration or adversitement
-Gamers: who seeks community and wants to invite others to play games to up level, skills, experience and share techniques or exchange items
+
+Pro Players: who seeks sponsorship for tournaments and wants to market themselves or seeks teammates for upcoming events.
+
+Sponsors: who seeks pro players for collaboration or adversitement.
+
+Gamers: who seeks community and wants to invite others to play games to up level, skills, experience and share techniques or exchange items.
 
 **Key insights from user research**
 
