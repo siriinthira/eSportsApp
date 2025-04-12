@@ -112,6 +112,18 @@ Matchmaking and Collaboration: Gamers are keen on finding like-minded individual
 
 Item Trading and Exchange: Many casual gamers are interested in trading or exchanging in-game items, skins, or other collectibles. The app should include a secure, easy-to-use item exchange platform that facilitates these transactions and ensures user safety.
 
+# KPIs
+
+Active Users (DAU/MAU): Measures daily and monthly engagement, showing how often users return to the app, indicating its overall value and stickiness.
+
+Sponsor-Player Engagement Rate: Tracks interactions between sponsors and players, which reflects the app's effectiveness in facilitating meaningful collaborations.
+
+Matchmaking Success Rate: Measures the percentage of successful team or game matchups, demonstrating how well the app connects players and enhances gaming experiences.
+
+Sponsorship Acquisition Rate: Indicates how many pro players secure sponsorships, showcasing the platform's ability to attract brand partnerships.
+
+User Retention Rate: Shows how many users continue using the app over time, which is critical for assessing long-term value and satisfaction.
+
 # Define
 Once you've gathered insights, it’s time to define the problem you want to solve and the goals of the app. This step includes:
 
