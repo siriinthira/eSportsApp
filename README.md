@@ -138,6 +138,8 @@ Alex joining a tournament:
 
 8. Participate in Tournament: On event day, Alex plays the tournament.
 
+# Pain Points
+
 # Wireframe V.2
 **Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
