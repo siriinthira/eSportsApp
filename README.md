@@ -38,23 +38,6 @@ Offering an engaging and simple interface to improve user retention.
 User Problems: For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
 
 
-# Ideate
-Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
-
-Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
-
-Matchmaking and Team Formation: A feature where players can easily form or join teams for tournaments.
-
-Event Discovery and Registration: Users should be able to discover and register for e-sports events based on their interests and region.
-
-Leaderboard and Rankings: Real-time leaderboards for users to track tournament standings.
-
-Live Streaming Integration: Allow users to watch live tournaments and games.
-
-Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
-
----------------------------------------------------------------------------
-
 # User Persona
 
 **Persona 1: Alex - Competitive Player**
@@ -81,7 +64,6 @@ Frustrations: Can't find a community for discussing strategies or news in one pl
 
 Behaviors: Watches tournaments live on streaming platforms, follows e-sports blogs and influencers.
 
----------------------------------------------------------------------------
 
 # User Scenario
 A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
@@ -104,30 +86,8 @@ She selects her favorite team’s match and watches it in real-time.
 
 During the match, she interacts with the community through a live chat.
 
----------------------------------------------------------------------------
 
-# User Story
-As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
-As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
-
----------------------------------------------------------------------------
-
-# Prototype V.1
-wireframe, mockup, prototype (re-do), user flow diagram
-  <p>
-  <img src = "https://github.com/user-attachments/assets/a7ef3dd4-4cce-4fa8-8b02-c81609a90864"/>
-</p>
-<p>
-  <img src = "https://github.com/user-attachments/assets/884d150d-4e06-46bb-ab77-c1399878e9cc"/>
-</p>
-<p>
-  <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
-</p>
----------------------------------------------------------------------------
-
-
-# User Journey
-
+# User Journey & Pain Points
 Alex joining a tournament:
 
 1. Open App: Alex launches the app.
@@ -146,15 +106,55 @@ Alex joining a tournament:
 
 8. Participate in Tournament: On event day, Alex plays the tournament.
 
-# Pain Points
-
-# User Testing, Feedback & Interview
+# User Story
+As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
+As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
 
 
 ---------------------------------------------------------------------------
 
+# Ideate
+Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
 
-# Wireframe V.2
+Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
+
+Matchmaking and Team Formation: A feature where players can easily form or join teams for tournaments.
+
+Event Discovery and Registration: Users should be able to discover and register for e-sports events based on their interests and region.
+
+Leaderboard and Rankings: Real-time leaderboards for users to track tournament standings.
+
+Live Streaming Integration: Allow users to watch live tournaments and games.
+
+Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
+
+# User Flow v1
+
+# Wireframe v1
+
+# Mockup v1
+
+# Prototype v1
+wireframe, mockup, prototype (re-do), user flow diagram
+  <p>
+  <img src = "https://github.com/user-attachments/assets/a7ef3dd4-4cce-4fa8-8b02-c81609a90864"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/884d150d-4e06-46bb-ab77-c1399878e9cc"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/8865d12d-736f-468c-bdeb-100848905fbc"/>
+</p>
+---------------------------------------------------------------------------
+
+# Usability Testing v1
+
+
+---------------------------------------------------------------------------
+
+# User Flow v2
+
+# Wireframe v2
 
 **Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
@@ -191,12 +191,15 @@ Flow for Registering for a Tournament: Home → Tournaments → Filter → Selec
 
 Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Watch → Interact with Community.
 
-# Mockup V.2
+# Mockup v2
 
-# Prototype V.2
+# Prototype v2
 
 ---------------------------------------------------------------------------
 
+# What I Learned
+
+---------------------------------------------------------------------------
 
 # Use Case Diagram
 <p>
