@@ -152,27 +152,12 @@ User Problems: For example, users may find it difficult to discover new tourname
 
 **Persona 1: Alex - Competitive Player**
 
-Age: 21
+  <img src = "https://github.com/user-attachments/assets/5c8b27a8-a75c-4cb6-a7fe-cebf33a2495d"/>
 
-Occupation: Student
-
-Goals: Win tournaments, improve gameplay, stay updated on esports news.
-
-Frustrations: Hard to find tournaments in his area, gets overwhelmed with too much information on platforms.
-
-Behaviors: Frequently plays mobile and PC games, follows professional players on social media, and looks for tournaments that match his skill level.
 
 **Persona 2: Sophia - E-Sports Enthusiast**
 
-Age: 28
-
-Occupation: Marketing Specialist
-
-Goals: Stay updated on news, follow favorite teams, watch live streams.
-
-Frustrations: Can't find a community for discussing strategies or news in one place.
-
-Behaviors: Watches tournaments live on streaming platforms, follows e-sports blogs and influencers.
+  <img src = "https://github.com/user-attachments/assets/9e8da722-38ad-43c1-82a4-cfacbbfc4ffc"/>
 
 
 # User Scenario
