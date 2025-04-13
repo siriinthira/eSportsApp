@@ -152,7 +152,7 @@ User Problems: For example, users may find it difficult to discover new tourname
 
 
 
-  <img src = "https://github.com/user-attachments/assets/b0fcde3f-1d12-4ae7-955e-45afcfd88cc3"/>
+  <img src = "https://github.com/user-attachments/assets/89c88efe-53d9-4cdf-9e3b-1640ced87531"/>
 
 
   <img src = "https://github.com/user-attachments/assets/6f0fe3c2-4ac0-467c-93d1-c81debc0d034"/>
