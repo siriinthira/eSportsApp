@@ -150,12 +150,10 @@ User Problems: For example, users may find it difficult to discover new tourname
 
 # User Persona
 
-**Persona 1: Alex - Competitive Player**
+
 
   <img src = "https://github.com/user-attachments/assets/abd9e4cc-5890-4bab-bef9-2a5abe56ffed"/>
 
-
-**Persona 2: Sophia - E-Sports Enthusiast**
 
   <img src = "https://github.com/user-attachments/assets/590b77e9-ec16-4385-b4e0-7059f1fb5b7b"/>
 
