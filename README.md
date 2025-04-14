@@ -126,13 +126,13 @@ User Retention Rate: Shows how many users continue using the app over time, whic
 
 # Define
 
-🔍 Problem Statement
+🔍 **Problem Statement**
 
 The esports community in Thailand and globally lacks a centralized, user-friendly mobile platform that supports both casual and professional players in discovering tournaments, connecting with peers, accessing real-time news, and managing their esports profiles. Despite the rapid growth of the industry, users face fragmented sources of information, limited networking opportunities, and difficulty staying updated with relevant events or sponsors.
 
 The current challenge is to design an intuitive, secure, and customizable eSports community app that addresses these gaps and fosters deeper community engagement, career growth, and real-time access to esports developments.
 
-🎯 User Needs – Summary
+🎯 **User Needs – Summary**
 
 Easy Tournament Discovery & Participation
 
@@ -164,7 +164,9 @@ Earn rewards or bonuses by interacting with optional in-app advertisements.
 
 
 
-User Needs: From your research, identify the core needs of your users. Some potential user needs might include:
+**User Needs:**
+
+From your research, identify the core needs of your users. Some potential user needs might include:
 
 - The ability to easily discover upcoming tournaments.
 
@@ -174,7 +176,9 @@ User Needs: From your research, identify the core needs of your users. Some pote
 
 - Personalized content feeds based on user preferences.
 
-Project Goals: The app’s goals could include:
+**Project Goals:** 
+
+The app’s goals could include:
 
 - Creating a platform for the e-sports community to connect and interact.
 
@@ -182,7 +186,7 @@ Project Goals: The app’s goals could include:
 
 - Offering an engaging and simple interface to improve user retention.
 
-User Problems: 
+**User Problems:** 
 
 For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
 
