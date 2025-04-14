@@ -2,6 +2,16 @@
 
 Esports is currently an industry with high-demand interest. In addition, Thailand is ranked number one in the ASEAN association, with the highest number of e-sports players earning more than 736,352,045.70 baht. There are at least 197 million people in the esports industry around the world. Therefore, making applications that help promote competition or create a community that meets the needs of consumers to achieve the set objectives by using interesting processes yet simple, convenient to use, and safe. This app is a community for people in the e-sport industry by exploring and collecting behaviors to be analyzed and designed to create. Applications according to the interests of the e-sport community. In this research, Flutter, a Cross - Platform Framework used in Native Mobile Application development, is a tool to design UX/UI customizations to aid mobile application development to meet users' requirements. The design proposes the application to help develop communities and e-sport tournaments that help to reach the community easier and follow news on time.
 
+🚀 **Project Goals** 
+
+The app’s goals could include:
+
+- Creating a platform for the e-sports community to connect and interact.
+
+- Helping players find, join, and follow tournaments easily.
+
+- Offering an engaging and simple interface to improve user retention.
+
 
 # 🕹️ How the e-Sports App Works – Quick Overview
 
@@ -132,51 +142,36 @@ The esports community in Thailand and globally lacks a centralized, user-friendl
 
 The current challenge is to design an intuitive, secure, and customizable eSports community app that addresses these gaps and fosters deeper community engagement, career growth, and real-time access to esports developments.
 
-🎯 **User Needs – Summary**
-
+🧠 **User Needs**
 Easy Tournament Discovery & Participation
 
-Find, register for, and follow esports tournaments quickly and effortlessly.
+Users need a simple, fast way to find, register, and follow esports tournaments based on their preferences and interests.
 
 Community Interaction & Engagement
 
-Connect with other players through chat groups and blog-style content sharing.
+A platform for users to connect with other players, share tips, and engage in meaningful discussions via chat groups and blog-style content.
 
 Real-Time Esports News & Updates
 
-Stay informed with live tournament results, team rankings, and industry news.
+Users need live updates on tournaments, including results, team rankings, and industry news, keeping them informed in real time.
 
 Networking with Players & Sponsors
 
-Discover and connect with pro players, sponsors, and potential collaborators.
+The ability to easily discover and connect with professional players, sponsors, and potential collaborators for career growth and opportunities.
 
 Customizable User Profiles
 
-Personalize profiles with gamer tags, bios, preferences, and social links.
+Users need to personalize their profiles with gamer tags, bios, skills, preferences, and social links to showcase their gaming identity.
 
 Localized Experience & Accessibility
 
-Multi-language support, simple UI, and relevant content for Thai and global users.
+A multi-language interface with content tailored to both local (Thai) and global users, ensuring relevance and ease of use for diverse audiences.
 
 Reward-Based Ad Interaction
 
-Earn rewards or bonuses by interacting with optional in-app advertisements.
+An incentive system where users can earn rewards or bonuses by interacting with optional ads, enhancing engagement and providing value in return.
 
-
-
-**User Needs:**
-
-From your research, identify the core needs of your users. Some potential user needs might include:
-
-- The ability to easily discover upcoming tournaments.
-
-- A community space for players to interact and share tips.
-
-- Real-time updates on tournament results and standings.
-
-- Personalized content feeds based on user preferences.
-
-🎯 **Design Goals – Summary**
+🎯 **Design Goals**
 
 Seamless Tournament Discovery & Participation
 
@@ -215,20 +210,6 @@ Smart Matching Algorithms
 Implement intelligent recommendations for connections and content in a user-friendly way.
 
 
-
-**Project Goals:** 
-
-The app’s goals could include:
-
-- Creating a platform for the e-sports community to connect and interact.
-
-- Helping players find, join, and follow tournaments easily.
-
-- Offering an engaging and simple interface to improve user retention.
-
-**User Problems:** 
-
-For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
 
 
 # User Persona
@@ -283,6 +264,11 @@ Alex joining a tournament:
 7. Set Notifications: Alex sets up reminders and notifications for the event.
 
 8. Participate in Tournament: On event day, Alex plays the tournament.
+
+**User Problems:** 
+
+For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
+
 
 # User Story
 
