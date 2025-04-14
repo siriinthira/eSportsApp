@@ -125,27 +125,66 @@ Sponsorship Acquisition Rate: Indicates how many pro players secure sponsorships
 User Retention Rate: Shows how many users continue using the app over time, which is critical for assessing long-term value and satisfaction.
 
 # Define
-Once you've gathered insights, it’s time to define the problem you want to solve and the goals of the app. This step includes:
+
+🔍 Problem Statement
+
+The esports community in Thailand and globally lacks a centralized, user-friendly mobile platform that supports both casual and professional players in discovering tournaments, connecting with peers, accessing real-time news, and managing their esports profiles. Despite the rapid growth of the industry, users face fragmented sources of information, limited networking opportunities, and difficulty staying updated with relevant events or sponsors.
+
+The current challenge is to design an intuitive, secure, and customizable eSports community app that addresses these gaps and fosters deeper community engagement, career growth, and real-time access to esports developments.
+
+🎯 User Needs – Summary
+
+Easy Tournament Discovery & Participation
+
+Find, register for, and follow esports tournaments quickly and effortlessly.
+
+Community Interaction & Engagement
+
+Connect with other players through chat groups and blog-style content sharing.
+
+Real-Time Esports News & Updates
+
+Stay informed with live tournament results, team rankings, and industry news.
+
+Networking with Players & Sponsors
+
+Discover and connect with pro players, sponsors, and potential collaborators.
+
+Customizable User Profiles
+
+Personalize profiles with gamer tags, bios, preferences, and social links.
+
+Localized Experience & Accessibility
+
+Multi-language support, simple UI, and relevant content for Thai and global users.
+
+Reward-Based Ad Interaction
+
+Earn rewards or bonuses by interacting with optional in-app advertisements.
+
+
 
 User Needs: From your research, identify the core needs of your users. Some potential user needs might include:
 
-The ability to easily discover upcoming tournaments.
+- The ability to easily discover upcoming tournaments.
 
-A community space for players to interact and share tips.
+- A community space for players to interact and share tips.
 
-Real-time updates on tournament results and standings.
+- Real-time updates on tournament results and standings.
 
-Personalized content feeds based on user preferences.
+- Personalized content feeds based on user preferences.
 
 Project Goals: The app’s goals could include:
 
-Creating a platform for the e-sports community to connect and interact.
+- Creating a platform for the e-sports community to connect and interact.
 
-Helping players find, join, and follow tournaments easily.
+- Helping players find, join, and follow tournaments easily.
 
-Offering an engaging and simple interface to improve user retention.
+- Offering an engaging and simple interface to improve user retention.
 
-User Problems: For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
+User Problems: 
+
+For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
 
 
 # User Persona
