@@ -159,6 +159,7 @@ User Problems: For example, users may find it difficult to discover new tourname
 
 
 # User Scenario
+
 A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
 
 Scenario 1: Alex wants to join a tournament.
@@ -181,6 +182,7 @@ During the match, she interacts with the community through a live chat.
 
 
 # User Journey & Pain Points
+
 Alex joining a tournament:
 
 1. Open App: Alex launches the app.
@@ -200,13 +202,16 @@ Alex joining a tournament:
 8. Participate in Tournament: On event day, Alex plays the tournament.
 
 # User Story
+
 As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
+
 As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
 
 
 ---------------------------------------------------------------------------
 
 # Ideate
+
 Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
 
 Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
