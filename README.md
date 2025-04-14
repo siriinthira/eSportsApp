@@ -176,6 +176,46 @@ From your research, identify the core needs of your users. Some potential user n
 
 - Personalized content feeds based on user preferences.
 
+🎯 **Design Goals – Summary**
+
+Seamless Tournament Discovery & Participation
+
+Easy and intuitive process for finding, registering, and tracking tournaments.
+
+Dynamic Community Engagement
+
+Foster meaningful interactions through chat groups, blogs, and discussions.
+
+Real-Time, Personalized Esports News
+
+Deliver live updates and personalized content to keep users informed.
+
+Professional Networking & Sponsor Discovery
+
+Enable users to connect with pro players and sponsors effortlessly.
+
+Customizable User Profiles
+
+Allow users to showcase their unique gaming identity and skills.
+
+Gamified Ads & Rewards
+
+Incorporate optional ads that offer rewards to boost engagement.
+
+Mobile Usability & Accessibility
+
+Optimize the app for smooth navigation, multi-language support, and accessibility.
+
+Trust, Privacy & Safety
+
+Prioritize security and privacy in interactions and profile management.
+
+Smart Matching Algorithms
+
+Implement intelligent recommendations for connections and content in a user-friendly way.
+
+
+
 **Project Goals:** 
 
 The app’s goals could include:
