@@ -143,6 +143,7 @@ The esports community in Thailand and globally lacks a centralized, user-friendl
 The current challenge is to design an intuitive, secure, and customizable eSports community app that addresses these gaps and fosters deeper community engagement, career growth, and real-time access to esports developments.
 
 🧠 **User Needs**
+
 Easy Tournament Discovery & Participation
 
 Users need a simple, fast way to find, register, and follow esports tournaments based on their preferences and interests.
