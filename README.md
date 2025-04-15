@@ -225,6 +225,9 @@ Implement intelligent recommendations for connections and content in a user-frie
 
 # User Scenario
 
+  <img src = "https://github.com/user-attachments/assets/c8c1b842-8eaf-49c2-bf52-862eb748dd69"/> 
+  <img src = "https://github.com/user-attachments/assets/0b122b8e-e276-4046-8273-9969a1d801a0"/>
+
 A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
 
 Scenario 1: Alex wants to join a tournament.
