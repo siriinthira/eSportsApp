@@ -82,133 +82,23 @@ Watch short ads for bonuses or rewards.
 
 # Empathize 
 
-Empathy is the first and most crucial step in the UX/UI design process. It's about understanding the users’ needs, pain points, and behaviors. 
-
-**Target Users:**
-
-Pro Players: who seeks sponsorship for tournaments and wants to market themselves or seeks teammates for upcoming events.
-
-Sponsors: who seeks pro players for collaboration or adversitement.
-
-Gamers: who seeks community and wants to invite others to play games to up level, skills, experience and share techniques or exchange items.
-
-**Key insights from user research:**
-
-**Pro Players:**
-
-Sponsorship and Exposure Needs: Pro players are highly motivated by opportunities to gain sponsorships and collaborations. They look for an easy-to-navigate platform to showcase their skills, achievements, and highlight their brand to potential sponsors.
-
-Networking and Team Formation: Many pro players are actively seeking new teammates or squads for upcoming events. They need a platform that allows them to easily connect with other skilled players to form teams quickly.
-
-Competitive Edge: Pro players value insights into their competitors, and tools to track performance and development. Features such as real-time analytics, competition stats, or personalized training schedules are highly desirable.
-
-Brand Collaboration and Monetization: Pro players often look for opportunities to monetize their content, either through sponsorships, fan interactions, or streaming. The app should allow them to share branded content easily and foster direct engagement with potential sponsors.
-
-**Sponsors:**
-
-Targeted Player Search: Sponsors are focused on finding pro players whose brand aligns with their products or services. A robust search feature that allows them to filter players by game genre, skill level, location, or social media influence can be key.
-
-Player Analytics and Insights: Sponsors want access to performance data, fan engagement, and player metrics to ensure a successful partnership. They are likely to prefer features that provide comprehensive player profiles with clear stats on engagement, views, and skill rankings.
-
-Customizable Campaigns: Sponsors are looking for tailored advertising solutions, such as in-game integrations, branded events, or social media collaborations. The app should allow them to create and manage campaigns that seamlessly blend with the players' content.
-
-**Gamers (Community and Casual Players):**
-
-Social Interaction and Community Building: Casual gamers are looking for a community where they can meet new players, share tips, discuss strategies, and level up their skills together. Gamers appreciate apps that provide dedicated spaces for discussions, group chats, and community events.
-
-Learning and Skill Development: Gamers value educational content, including guides, tutorials, and practice modes. They are highly interested in exchanging techniques, discussing strategies, and improving their gameplay. The app should offer a robust system for sharing knowledge, tips, and strategies between users.
-
-Matchmaking and Collaboration: Gamers are keen on finding like-minded individuals to play games with, whether for competitive or casual gaming sessions. Matchmaking systems, along with a ranking system that fosters healthy competition, can enhance the user experience.
-
-Item Trading and Exchange: Many casual gamers are interested in trading or exchanging in-game items, skins, or other collectibles. The app should include a secure, easy-to-use item exchange platform that facilitates these transactions and ensures user safety.
+  <img src = "https://github.com/user-attachments/assets/2d48b5b9-cb75-4244-adaf-a30cbd85a0ca"/>
 
 # KPIs
 
-Active Users (DAU/MAU): Measures daily and monthly engagement, showing how often users return to the app, indicating its overall value and stickiness.
+<img src = "https://github.com/user-attachments/assets/14850f6d-000b-4aff-acaa-ba4ddfaa42e5"/>
 
-Sponsor-Player Engagement Rate: Tracks interactions between sponsors and players, which reflects the app's effectiveness in facilitating meaningful collaborations.
 
-Matchmaking Success Rate: Measures the percentage of successful team or game matchups, demonstrating how well the app connects players and enhances gaming experiences.
+# Define (Problem Statement & User Needs)
 
-Sponsorship Acquisition Rate: Indicates how many pro players secure sponsorships, showcasing the platform's ability to attract brand partnerships.
+<img src = "https://github.com/user-attachments/assets/84baa414-5f85-4cd5-b90c-4aa63f61abc6"/>
 
-User Retention Rate: Shows how many users continue using the app over time, which is critical for assessing long-term value and satisfaction.
+<img src = "https://github.com/user-attachments/assets/ea4e2e1b-d603-4754-8d2a-348317e61ec9"/>
 
-# Define
-
-🔍 **Problem Statement**
-
-The esports community in Thailand and globally lacks a centralized, user-friendly mobile platform that supports both casual and professional players in discovering tournaments, connecting with peers, accessing real-time news, and managing their esports profiles. Despite the rapid growth of the industry, users face fragmented sources of information, limited networking opportunities, and difficulty staying updated with relevant events or sponsors.
-
-The current challenge is to design an intuitive, secure, and customizable eSports community app that addresses these gaps and fosters deeper community engagement, career growth, and real-time access to esports developments.
-
-🧠 **User Needs**
-
-Easy Tournament Discovery & Participation
-
-Users need a simple, fast way to find, register, and follow esports tournaments based on their preferences and interests.
-
-Community Interaction & Engagement
-
-A platform for users to connect with other players, share tips, and engage in meaningful discussions via chat groups and blog-style content.
-
-Real-Time Esports News & Updates
-
-Users need live updates on tournaments, including results, team rankings, and industry news, keeping them informed in real time.
-
-Networking with Players & Sponsors
-
-The ability to easily discover and connect with professional players, sponsors, and potential collaborators for career growth and opportunities.
-
-Customizable User Profiles
-
-Users need to personalize their profiles with gamer tags, bios, skills, preferences, and social links to showcase their gaming identity.
-
-Localized Experience & Accessibility
-
-A multi-language interface with content tailored to both local (Thai) and global users, ensuring relevance and ease of use for diverse audiences.
-
-Reward-Based Ad Interaction
-
-An incentive system where users can earn rewards or bonuses by interacting with optional ads, enhancing engagement and providing value in return.
 
 🎯 **Design Goals**
 
-Seamless Tournament Discovery & Participation
-
-Easy and intuitive process for finding, registering, and tracking tournaments.
-
-Dynamic Community Engagement
-
-Foster meaningful interactions through chat groups, blogs, and discussions.
-
-Real-Time, Personalized Esports News
-
-Deliver live updates and personalized content to keep users informed.
-
-Professional Networking & Sponsor Discovery
-
-Enable users to connect with pro players and sponsors effortlessly.
-
-Customizable User Profiles
-
-Allow users to showcase their unique gaming identity and skills.
-
-Gamified Ads & Rewards
-
-Incorporate optional ads that offer rewards to boost engagement.
-
-Mobile Usability & Accessibility
-
-Optimize the app for smooth navigation, multi-language support, and accessibility.
-
-Trust, Privacy & Safety
-
-Prioritize security and privacy in interactions and profile management.
-
-Smart Matching Algorithms
-
-Implement intelligent recommendations for connections and content in a user-friendly way.
+<img src = "https://github.com/user-attachments/assets/bfeb90b8-4944-4587-84a5-c2b01c28807a"/>
 
 
 
