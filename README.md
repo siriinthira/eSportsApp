@@ -95,9 +95,6 @@ Watch short ads for bonuses or rewards.
 
 <img src = "https://github.com/user-attachments/assets/ea4e2e1b-d603-4754-8d2a-348317e61ec9"/>
 
-
-🎯 **Design Goals**
-
 <img src = "https://github.com/user-attachments/assets/bfeb90b8-4944-4587-84a5-c2b01c28807a"/>
 
 
