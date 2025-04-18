@@ -97,19 +97,7 @@ Watch short ads for bonuses or rewards.
 
 # Ideate
 
-Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
-
-Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
-
-Matchmaking and Team Formation: A feature where players can easily form or join teams for tournaments.
-
-Event Discovery and Registration: Users should be able to discover and register for e-sports events based on their interests and region.
-
-Leaderboard and Rankings: Real-time leaderboards for users to track tournament standings.
-
-Live Streaming Integration: Allow users to watch live tournaments and games.
-
-Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
+<img src = "https://github.com/user-attachments/assets/768c2fc1-78d9-4f8f-9cbe-7d8b8cdddc1c"/>
 
 
 # User Persona
