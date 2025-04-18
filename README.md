@@ -115,26 +115,6 @@ Watch short ads for bonuses or rewards.
   <img src = "https://github.com/user-attachments/assets/c8c1b842-8eaf-49c2-bf52-862eb748dd69"/> 
   <img src = "https://github.com/user-attachments/assets/0b122b8e-e276-4046-8273-9969a1d801a0"/>
 
-A user scenario describes how a user might interact with the app to achieve a specific goal. Here’s an example:
-
-Scenario 1: Alex wants to join a tournament.
-
-Alex opens the app, logs in, and navigates to the "Tournaments" section.
-
-He filters tournaments based on his favorite game and skill level.
-
-He selects a tournament and registers by filling in his team information.
-
-After registration, he sets up alerts for updates about the tournament.
-
-Scenario 2: Sophia wants to watch a live stream.
-
-Sophia opens the app, navigates to the "Live Streams" section.
-
-She selects her favorite team’s match and watches it in real-time.
-
-During the match, she interacts with the community through a live chat.
-
 
 # User Journey & Pain Points
 
