@@ -84,9 +84,7 @@ Watch short ads for bonuses or rewards.
 
   <img src = "https://github.com/user-attachments/assets/2d48b5b9-cb75-4244-adaf-a30cbd85a0ca"/>
 
-# KPIs
-
-<img src = "https://github.com/user-attachments/assets/14850f6d-000b-4aff-acaa-ba4ddfaa42e5"/>
+  <img src = "https://github.com/user-attachments/assets/14850f6d-000b-4aff-acaa-ba4ddfaa42e5"/>
 
 
 # Define (Problem Statement/User Needs/Design Goals)
