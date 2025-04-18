@@ -89,7 +89,7 @@ Watch short ads for bonuses or rewards.
 <img src = "https://github.com/user-attachments/assets/14850f6d-000b-4aff-acaa-ba4ddfaa42e5"/>
 
 
-# Define (Problem Statement & User Needs)
+# Define (Problem Statement/User Needs/Design Goals)
 
 <img src = "https://github.com/user-attachments/assets/84baa414-5f85-4cd5-b90c-4aa63f61abc6"/>
 
