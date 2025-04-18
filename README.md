@@ -230,11 +230,6 @@ Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Wat
 # Mockup v2
 
 # Prototype v2
-
----------------------------------------------------------------------------
-
-# What I Learned
-
 ---------------------------------------------------------------------------
 
 # Use Case Diagram
