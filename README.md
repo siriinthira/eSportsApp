@@ -95,7 +95,21 @@ Watch short ads for bonuses or rewards.
 
 <img src = "https://github.com/user-attachments/assets/bfeb90b8-4944-4587-84a5-c2b01c28807a"/>
 
+# Ideate
 
+Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
+
+Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
+
+Matchmaking and Team Formation: A feature where players can easily form or join teams for tournaments.
+
+Event Discovery and Registration: Users should be able to discover and register for e-sports events based on their interests and region.
+
+Leaderboard and Rankings: Real-time leaderboards for users to track tournament standings.
+
+Live Streaming Integration: Allow users to watch live tournaments and games.
+
+Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
 
 
 # User Persona
@@ -112,6 +126,12 @@ Watch short ads for bonuses or rewards.
 
   <img src = "https://github.com/user-attachments/assets/c8c1b842-8eaf-49c2-bf52-862eb748dd69"/> 
   <img src = "https://github.com/user-attachments/assets/0b122b8e-e276-4046-8273-9969a1d801a0"/>
+
+# User Story
+
+As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
+
+As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
 
 
 # User Journey & Pain Points
@@ -139,30 +159,10 @@ Alex joining a tournament:
 For example, users may find it difficult to discover new tournaments or connect with like-minded players. Your app will solve this by offering tailored recommendations and simplifying tournament registration.
 
 
-# User Story
 
-As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
-
-As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
 
 
 ---------------------------------------------------------------------------
-
-# Ideate
-
-Now that the problem and objectives are defined, brainstorm solutions. This step is about generating ideas for features, interactions, and content that will be integrated into the app. This phase includes:
-
-Feature Brainstorming: List possible features for your app based on user needs. Some ideas could include:
-
-Matchmaking and Team Formation: A feature where players can easily form or join teams for tournaments.
-
-Event Discovery and Registration: Users should be able to discover and register for e-sports events based on their interests and region.
-
-Leaderboard and Rankings: Real-time leaderboards for users to track tournament standings.
-
-Live Streaming Integration: Allow users to watch live tournaments and games.
-
-Sketching: Sketch low-fidelity wireframes to explore layouts, interactions, and overall flow.
 
 # User Flow v1
 
