@@ -117,11 +117,11 @@ Watch short ads for bonuses or rewards.
 
 # User Story
 
-<img src = "https://github.com/user-attachments/assets/6c9e45b4-fee2-4e91-8791-93a468358193"/>
-<img src = "https://github.com/user-attachments/assets/3488d1ef-c5ec-4e5b-adf6-d4569c323bed"/>
-<img src = "https://github.com/user-attachments/assets/d9429ed1-6bdf-4208-8dc5-c758e6ec9ce4"/>
-<img src = "https://github.com/user-attachments/assets/b351bcbe-2719-4e5a-980d-fa6062e04595"/>
-<img src = "https://github.com/user-attachments/assets/04fda921-7cf0-4750-b588-ce350ada2713"/>
+<img src = "https://github.com/user-attachments/assets/a64a5d8e-cc38-45a3-845f-67417a102f12"/>
+<img src = "https://github.com/user-attachments/assets/8034ebc6-af61-4d49-85a5-909e2a5b7451"/>
+<img src = "https://github.com/user-attachments/assets/9a776332-0384-4ef7-be08-90c507c2e914"/>
+<img src = "https://github.com/user-attachments/assets/024db3e5-c6ab-4607-8682-e3ea527f9d23"/>
+<img src = "https://github.com/user-attachments/assets/35583281-ff1f-4142-af29-a471c6d579e2"/>
 
 # User Journey & Pain Points
 
