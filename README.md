@@ -117,10 +117,11 @@ Watch short ads for bonuses or rewards.
 
 # User Story
 
-As a competitive player, I want to easily find tournaments that match my skill level so that I can participate in challenges that are appropriate for me.
-
-As an e-sports enthusiast, I want to receive real-time updates on tournaments I follow so I can stay informed without searching for information.
-
+<img src = "https://github.com/user-attachments/assets/6c9e45b4-fee2-4e91-8791-93a468358193"/>
+<img src = "https://github.com/user-attachments/assets/3488d1ef-c5ec-4e5b-adf6-d4569c323bed"/>
+<img src = "https://github.com/user-attachments/assets/d9429ed1-6bdf-4208-8dc5-c758e6ec9ce4"/>
+<img src = "https://github.com/user-attachments/assets/b351bcbe-2719-4e5a-980d-fa6062e04595"/>
+<img src = "https://github.com/user-attachments/assets/04fda921-7cf0-4750-b588-ce350ada2713"/>
 
 # User Journey & Pain Points
 
