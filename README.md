@@ -153,12 +153,6 @@ For example, users may find it difficult to discover new tournaments or connect 
 
 ---------------------------------------------------------------------------
 
-# User Flow v1
-
-# Wireframe v1
-
-# Mockup v1
-
 # Prototype v1
 wireframe, mockup, prototype (re-do), user flow diagram
   <p>
