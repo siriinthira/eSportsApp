@@ -168,7 +168,7 @@ wireframe, mockup, prototype (re-do), user flow diagram
 --------------------------------------------------------------------------------------------------
 
 
-# Wireframe v2 (OPTIONAL)
+# Version2 Ideas for Improvement (OPTIONAL)
 
 **Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
