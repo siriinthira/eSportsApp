@@ -167,14 +167,8 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 --------------------------------------------------------------------------------------------------
 
-# Usability Testing v1
 
-
----------------------------------------------------------------------------
-
-# User Flow v2
-
-# Wireframe v2
+# Wireframe v2 (OPTIONAL)
 
 **Wireframe and User flow**
 Wireframes are visual representations of the app’s layout, showing key elements and their arrangement. Here's an outline:
@@ -205,17 +199,11 @@ User stats (e.g., tournament participation, rankings).
 
 Option to edit personal information, notifications, and preferences.
 
-**User Flow Ideas:**
+**User Flow Ideas:** (OPTIONAL)
 
 Flow for Registering for a Tournament: Home → Tournaments → Filter → Select Event → Register → Confirmation.
 
 Flow for Watching a Live Stream: Home → Live Streams → Select Stream → Watch → Interact with Community.
-
-# Mockup v2
-
-# Prototype v2
-
-# Usability Testing v1
 
 ---------------------------------------------------------------------------
 
